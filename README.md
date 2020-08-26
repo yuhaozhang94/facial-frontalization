@@ -1,5 +1,12 @@
 # Pytorch implementation of a face frontalization GAN
 
+This is the final group project for ISSS610 Applied Machine Learning module at Singapore Management University for out Master of IT in Business program. The team members contributing to this project include:
+- Glen Low Fang Yang
+- Pan Tao
+- Pranav Arora
+- Yeo Ser Mian Jeffrey
+- Zhang Yuhao
+
 ## Introduction
 
 Screenwriters never cease to amuse us with bizarre portrayals of the tech industry, ranging [from cringeworthy to hilarious](https://www.reddit.com/r/ZoomEnhance/). With the current advances in artificial intelligence, however, some of the most unrealistic technologies from the TV screens are coming to life. For example, the Enhance software from *CSI: NY* (or *Les Experts : Manhattan* for the francophone readers) has already been outshone by the state-of-the-art [Super Resolution neural networks](https://medium.com/@jonathan_hui/gan-super-resolution-gan-srgan-b471da7270ec). On a more extreme side of the imagination, there is *Enemy of the state*:
